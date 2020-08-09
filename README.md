@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning Tensorflow
+- 💬 Ask me about anything, will be glad to help.
 - 📫 How to reach me: Telegram @eptitsyn
 
 <!--
@@ -12,7 +13,7 @@ Here are some ideas to get you started:
 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+
 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
