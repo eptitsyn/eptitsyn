@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning Tensorflow
 - 💬 Ask me about anything, will be glad to help.
-- 📫 How to reach me: Telegram @eptitsyn
+- 📫 How to reach me: Telegram @eptitsyn https://t.me/eptitsyn
 
 <!--
 **eptitsyn/eptitsyn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
