@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Tensorflow
-
 - 📫 How to reach me: Telegram @eptitsyn https://t.me/eptitsyn
 
 you can find my CV at http://ptitsyn.com/
@@ -10,6 +8,7 @@ you can find my CV at http://ptitsyn.com/
 
 Here are some ideas to get you started:
 
+- 🌱 I’m currently learning Tensorflow
 - 🔭 I’m currently working on ...
 - 💬 Ask me about anything, will be glad to help.
 - 👯 I’m looking to collaborate on ...
