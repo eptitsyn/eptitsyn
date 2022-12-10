@@ -1,9 +1,11 @@
 ### Hi there 👋
+Im, Evgenii Ptitsyn or Zhenya
 
-- 📫 How to reach me: Telegram @eptitsyn https://t.me/eptitsyn
+- 📫 How to reach me: Telegram @eptitsyn https://t.me/eptitsyn or email in bio.
 
-you can find my CV at http://ptitsyn.com/
+
 <!--
+you can find my CV at http://ptitsyn.com/
 **eptitsyn/eptitsyn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
